@@ -1,33 +1,20 @@
 body {
-  width: 400px;
+  width: 6px;
   margin: 4 auto;
 }
 table {
-  border-bottom: 4px red;
-}
-a { 
-  color: orange;
-}
-a:hover {
-  color: purple;
-}
-p, li { 
-  font-size: 16px;
-  line-height: 24px;
-}
-img {
-  float: right;
-}
-#title {
+  border-bottom: 20px red;
+  margin-top: 16px;
+  padding-top: 24px;
+  width: 2px;
+  height: 2px;
   float: left;
 }
-#poster {
-  float: right;
-}
-#summary {
-  clear: both;
-  background-color: gray;
-  padding: 20px;
-  border: 1px solid black;
-  margin-top: 20px;
+h4 { 
+  color: blue;
+  font-family: arial;
+  font-size: 16px;
+  line-height: 18px;
+
+
 }
