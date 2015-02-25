@@ -3,7 +3,7 @@ body {
   margin: 4 auto;
 }
 table {
-  border-bottom: 2px solid gray;
+  border-bottom: 4px red;
 }
 a { 
   color: orange;
