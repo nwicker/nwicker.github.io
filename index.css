@@ -1,20 +1,23 @@
 body {
-  width: 6px;
-  margin: 4 auto;
+  width: 900px;
+  margin: 0 auto;
 }
 table {
-  border-bottom: 20px red;
-  margin-top: 16px;
-  padding-top: 24px;
-  width: 2px;
-  height: 2px;
+  border-bottom: 10px red;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  width: 900px;
+  height: 100px; 
   float: left;
+  color: yellow;
 }
 h4 { 
   color: blue;
   font-family: arial;
   font-size: 16px;
   line-height: 18px;
-
-
+}
+th { 
+  float: left; 
 }
