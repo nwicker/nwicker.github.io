@@ -1,0 +1,104 @@
+<!DOCTYPE html>`
+
+<html>
+
+<head>
+  
+  <title>WAMPUM - Slow Down Son</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  
+  
+</head>
+
+<body>
+
+
+    <section>
+
+    <div class="container-fluid">
+    
+    <div id="wampum">
+    
+      <div class="row">  
+  
+        <div class="col-md-7">
+      
+          <img src="wampum.jpg">
+        
+        </div>
+
+      <p class="text-center">
+        
+        <div class="btn-group" role="group">
+    
+     
+          <center>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Home</button>   
+       
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Log In</button>
+      
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Register</button>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Partner</button>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">How It Works</button>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Contact Us</button>
+
+          </center>
+        
+        </div>
+      </p>
+      </div>
+      </div>
+      </div>
+  
+    </section>
+
+    <Section>
+
+<jumbotron>
+
+
+<div class="row">
+<div class="col-md-6">
+<div id="checkback">
+<div class="text-center">
+
+
+<div id="jeez">
+
+<p>Hold Your Horses - We're Working on it. Jeez!</p>
+
+
+
+</div>
+</div>
+
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</jumbotron>
+</Section>
+
+ <section>
+
+    <div class="panel panel-default">
+  <div id="copyright">
+  <div class="panel-heading">Copyright Wampum 2015</div>
+
+</div>
+</section>
+
+
+
+</body>
+</html>

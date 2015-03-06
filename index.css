@@ -1,23 +1,113 @@
-body {
-  width: 900px;
-  margin: 0 auto;
+#wampum {
+  padding-bottom: 20px;
+  margin-top: 1px;
+  }
+
+#pocket {
+  background-image: url(pocket.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 1400px;
+  height: 900px;
+  border-bottom: 1px solid gray;
+ }
+ #coinjar {
+  background-image: url(coinjar.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 1400px;
+  height: 900px;
+  border-bottom: 1px solid gray;
+ }
+
+ #never {
+  font-family: century gothic, sans-serif;
+  font-size: 32px;
+  margin-top: 60px;
+  margin-left: 800px;
+ }
+ #piggy {
+  background-image: url(piggy.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 1400px;
+  height: 900px;
+  border-bottom: 1px solid gray;
+ }
+ #save {
+  font-family: century gothic, sans-serif;
+  font-size: 32px;
+  margin-top: 300px;
+  margin-left: 250px;
 }
-table {
-  border-bottom: 10px red;
+#member {
+  font-family: century gothic, sans-serif;
+  font-size: 32px;
+  margin-top: 80px;
+  margin-left: 900px;
+  color: white;
+}
+ #retailers {
+  background-image: url(retailers.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 1400px;
+  height: 900px;
+  border-bottom: 1px solid gray;
+}
+#partners {
+  font-family: century gothic, sans-serif;
+  font-size: 32px;
+  margin-top: 80px;
+  margin-left: 900px;
+}
+#copyright {
+  float: right; 
+}
+
+#couch {
+  background-image: url(couch.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 1400px;
+  height: 900px;
+  border-bottom: 1px solid gray;
+ }
+
+ #contact {
+  font-family: century gothic, sans-serif;
+  font-size: 32px;
+  margin-top: 80px;
+  margin-left: 800px;
+  color: white;
+}
+
+#response {
+  font-family: century gothic, sans-serif;
+  font-size: 14px;
+  color: black;
   margin-top: 20px;
-  margin-bottom: 10px;
-  padding-top: 10px;
-  width: 900px;
-  height: 100px; 
+  margin-bottown: 20px;
+}
+
+#email {
+  margin-top: 50px;
+  margin-bottown: 20px;
+}
+
+#checkback {
+  background-image: url(checkback.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 1100px;
+
+}
+ #jeez {
+  font-family: century gothic, sans-serif;
+  font-size: 48px;
+  margin-top: 160px;
+  margin-left: 900px;
+  color: black;
   float: left;
-  color: yellow;
-}
-h4 { 
-  color: blue;
-  font-family: arial;
-  font-size: 16px;
-  line-height: 18px;
-}
-th { 
-  float: left; 
+  line-height: 100px;
 }

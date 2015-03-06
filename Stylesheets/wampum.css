@@ -1,0 +1,10 @@
+#background {
+  background-image: img src="pocket.jpg" style="width:1400px;height:800px";
+ background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+} 
+
+#padding {
+  padding-bottom: 40px;
+}

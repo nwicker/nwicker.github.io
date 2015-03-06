@@ -1,0 +1,111 @@
+<!DOCTYPE html>`
+<html>
+ <head>
+  <title>Michicagn Wolverines</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  
+ </head>
+
+ <body>
+ 	<div class="container">
+
+ 		<div class="row">
+
+ 			<div class ="col-md-6">
+
+ 			<img src="Michigan.png" class="img-responsive">
+
+ 			</div>
+
+ 			<div class ="col-md-6">
+
+ 			<img src="Harbaugh.jpg" class="img-responsive">
+
+ 			</div>
+
+ 		</div>
+ 			
+ 	<section>
+
+ 	<center>
+ 	<h1>Michigan Wolverines Football - Now We Have Harbaugh!</h1>
+ 	</center>
+<div class="row">
+
+ 	<div class ="col-md-6">
+
+ 	  <div class="panel panel-default">
+  
+  		<div class="panel-heading">Schedule</div>
+  		<div class="panel-body">
+  
+  
+    <table class="table table-striped">
+      <th>Date</th>
+      <th>Opponent</th>
+         <tr>
+          <td>11/14</td>
+          <td>MSU</td>
+         </tr>
+        <tr>
+          <td>11/21</td>
+          <td>Iowa</td>
+         </tr>
+         <tr>
+          <td>11/28</td>
+          <td>Purdue</td>
+         </tr>
+        <tr>
+          <td>12/20</td>
+          <td>Minnesota</td>
+         </tr>
+        
+      
+    </table>
+  	</div>
+	</div>
+	</div>
+
+<div class ="col-md-6">
+
+ 	  <div class="panel panel-default">
+  
+  		<div class="panel-heading">Roster</div>
+  		<div class="panel-body">
+  
+  
+    <table class="table table-striped">
+      <th>Name</th>
+      <th>Number</th>
+         <tr>
+          <td>Jim Harbaugh</td>
+          <td>8</td>
+         </tr>
+        <tr>
+          <td>Jim Harbaugh</td>
+          <td>23</td>
+         </tr>
+         <tr>
+          <td>Jim Harbaugh</td>
+          <td>47</td>
+         </tr>
+        <tr>
+          <td>Jim Harbaugh</td>
+          <td>1</td>
+         </tr>
+        
+      
+    </table>
+  	</div>
+	</div>
+	</div>
+	
+
+		</section>
+	
+	
+ 	</div>
+ </body>
+
+</html>

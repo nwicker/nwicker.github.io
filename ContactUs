@@ -1,0 +1,133 @@
+<!DOCTYPE html>`
+
+<html>
+
+<head>
+  
+  <title>WAMPUM - Contact Us</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  
+  
+</head>
+
+<body>
+
+
+    <section>
+
+    <div class="container-fluid">
+    
+    <div id="wampum">
+    
+      <div class="row">  
+  
+        <div class="col-md-7">
+      
+          <img src="wampum.jpg">
+        
+        </div>
+
+      <p class="text-center">
+        
+        <div class="btn-group" role="group">
+    
+     
+          <center>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Home</button>   
+       
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Log In</button>
+      
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Register</button>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Partner</button>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">How It Works</button>
+
+              <button class="btn btn-success" href="http://facebook.com/nathanwicker">Contact Us</button>
+
+          </center>
+        
+        </div>
+      </p>
+      </div>
+      </div>
+      </div>
+  
+    </section>
+
+    <Section>
+
+<jumbotron>
+<div id="couch">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12">
+<div id="contact">
+
+<p>Contact Us</p>
+
+<div id="response">
+<form>
+  
+  <p>
+ 
+    <input placeholder="First Name"> </input> 
+   
+  </p>
+
+<p>
+    <input placeholder="Last Name"> </input> 
+  </p>
+
+  <p>
+    <input placeholder="Email"> </input> 
+  </p>
+
+<p>
+    <input placeholder="Username"> </input> 
+  </p>
+<p>
+    <textarea rows='2' cols='60' placeholder="Subject"></textarea>
+</p>
+<p>
+    <textarea rows='8' cols='60' placeholder="Message"></textarea>
+</p>
+
+</form>
+</div>
+
+
+<button class="btn btn-default" href="http://facebook.com/nathanwicker">Submit</button> 
+
+
+<div id="email">
+
+<p>Prefer Email?</p>
+
+<a class="btn btn-default" href="mailto:n-wicker@kellogg.northwestern.edu">Email Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</jumbotron>
+</Section>
+
+ <section>
+
+    <div class="panel panel-default">
+  <div id="copyright">
+  <div class="panel-heading">Copyright Wampum 2015</div>
+</div>
+</div>
+</section>
+
+
+
+</body>
+</html>
